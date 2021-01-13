@@ -27,6 +27,7 @@
 | [exp1](https://github.com/hehemu/-/tree/main/exp1) | 实验一   多源数据集成、清洗和统计                           |
 | [exp2](https://github.com/hehemu/-/tree/main/exp2) | 实验二   数据统计和可视化数据统计和可视化                 |
 | [exp3](https://github.com/hehemu/-/tree/main/exp3) | 实验三   k-means聚类算法           |
+| [exp4](https://github.com/hehemu/-/tree/main/exp4) | 实验四   逻辑回归二分类    |
 
 
 ## 实验一 多源数据集成、清洗和统计
@@ -93,11 +94,19 @@
 [5类及散点图](https://github.com/hehemu/-/tree/main/exp3/5cen)
 
 ## 实验四 逻辑回归二分类
+
 [返回目录](#目录)
 
 **题目 ：**
 学习sigmoid函数和逻辑回归算法。将实验三.2中的样例数据用聚类的结果打标签{0，1}，并用逻辑回归模型拟合。
 
-1. 学习并画出sigmoid函数
-2. 设计梯度下降算法，实现逻辑回归模型的学习过程。
-3. 根据给定数据（实验三.2），用梯度下降算法进行数据拟合，并用学习好的模型对(2,6)分类。
+1、学习并画出sigmoid函数：[Anwser](https://github.com/hehemu/-/blob/main/exp4/%E7%AC%AC%E4%B8%80%E9%97%AE.png)
+
+2、设计梯度下降算法，实现逻辑回归模型的学习过程：
+(1)[Anwser](https://github.com/hehemu/-/blob/main/exp4/%E7%AC%AC%E4%BA%8C%E9%97%AE%EF%BC%881%EF%BC%89.png)
+(2)[Anwser](https://github.com/hehemu/-/blob/main/exp4/%E7%AC%AC%E4%BA%8C%E9%97%AE%EF%BC%882%EF%BC%89.png)
+
+3、根据给定数据（实验三.2），用梯度下降算法进行数据拟合，并用学习好的模型对(2,6)分类：
+[Anwser](https://github.com/hehemu/-/blob/main/exp4/%E7%AC%AC%E4%B8%89%E9%97%AE.png)
+
+
